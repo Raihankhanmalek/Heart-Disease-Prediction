@@ -59,9 +59,54 @@ A simple, interactive web application built with **Streamlit** that predicts the
 
 ## 📁 Folder Structure
 
-heart-disease-prediction/
-├── streamlit_app.py # Streamlit web app UI
-├── heart_disease_model.pkl # Trained machine learning model
-├── scaler.pkl # StandardScaler for preprocessing
-├── requirements.txt # List of Python dependencies
-└── README.md # Project documentation (this file)
+```
+heart-disease-predictor/
+├── streamlit_app.py           # Streamlit web app UI
+├── heart_disease_model.pkl    # Trained machine learning model
+├── scaler.pkl                 # StandardScaler for preprocessing
+├── requirements.txt           # List of Python dependencies
+└── README.md                  # Project documentation (this file)
+```
+
+---
+
+## ⚙️ Installation (Run Locally)
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/heart-disease-predictor.git
+
+# Navigate into the folder
+cd heart-disease-predictor
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run streamlit_app.py
+```
+
+---
+
+## ☁️ Deployment
+
+This app is deployed using [Streamlit Cloud](https://streamlit.io/cloud):
+
+1. Push your project to a GitHub repo
+2. Create an account on Streamlit Cloud
+3. Click "Deploy an app", connect GitHub, and select this repo
+4. Set `streamlit_app.py` as the main file
+5. Done! 🚀
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by [Raihankhan Malek](https://www.linkedin.com/in/raihankhanmalek)  
+📫 Email: raihankhanmalek@gmail.com
+
+---
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
