@@ -104,9 +104,3 @@ This app is deployed using [Streamlit Cloud](https://streamlit.io/cloud):
 
 Made with ❤️ by [Raihankhan Malek](https://www.linkedin.com/in/raihankhanmalek)  
 📫 Email: raihankhanmalek@gmail.com
-
----
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
