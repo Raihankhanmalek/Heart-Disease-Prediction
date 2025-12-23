@@ -12,7 +12,7 @@ A simple, interactive web application built with **Streamlit** that predicts the
 
 ## 🚀 Demo
 
-🔗 **Live App**: [Click here to try it out](https://your-app-name.streamlit.app)
+🔗 **Live App**: [Click here to try it out](https://hdpraihankhanmalek.streamlit.app)
 
 ---
 
